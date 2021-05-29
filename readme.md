@@ -2,7 +2,7 @@
 
 ##  Do you want any design support?
 	- logo design
-	-  book cover design
+	- book cover design
 	- banner
 	- brochure design
 	- business card
