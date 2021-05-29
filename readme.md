@@ -1,6 +1,6 @@
 > this is my personal web portfolio where I showcase my designs stuffs.  I used a theme from ColorLib to build the website.
 
-##  Do you want any design support?
+##  Do you want any design support? I Provide:
 	- logo design
 	- book cover design
 	- banner
