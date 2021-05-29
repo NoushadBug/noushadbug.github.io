@@ -1,8 +1,24 @@
-Thank you for using our template!
+> this is my personal web portfolio where I showcase my designs stuffs.  I used a theme from ColorLib to build the website.
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
+##  Do you want any design support?
+	- logo design
+	-  book cover design
+	- banner
+	- brochure design
+	- business card
+	- presentations
+	- blogging and eBooks, marketing designs, email headers, event banners and card
+	- document design
+	- worksheet, white paper design, poster, greeting card, flyers
+	- Ads, thumbnail, cover stories, post
+	- menu book
+	- infographic
+	- invitations
+	- and many more
+	
+## 
+**I am a three years of expertized graphic designer with a modern design ideas. I can design for you at a low cost. inbox me right now!**
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
+###### WhatsApp me : +8801688898166
+###### inbox: https://m.me/noushadBug
 
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
